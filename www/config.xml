@@ -23,7 +23,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <icon src="img/gps.jpeg"></icon>
-    <plugin name="cordova-plugin-geolocation" version="2.1.0"/>
-    
+    <icon src="img/gps.jpg"></icon>
+<plugin name ="cordova-plugin-geolocation" version="2.1.0"/>    
 </widget>
